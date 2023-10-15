@@ -1,3 +1,6 @@
+#pip install openpyxl
+#pip install xlrd
+#pip install tkcalendar
 from tkinter import *
 import tkinter as tk
 from tkinter import messagebox 
